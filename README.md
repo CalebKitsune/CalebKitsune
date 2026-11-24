@@ -8,7 +8,7 @@ I approach projects with a simple question: *Does it work, and how can I verify 
 
 ## What I've worked on
 
-### ESP32-C6 • FreeRTOS scheduling and timing experiments
+### [ESP32-C6 • FreeRTOS scheduling and timing experiments](https://github.com/CalebKitsune/FreeRTOS-Scheduling-Analysis)
 
 - Developed periodic tasks in **ESP-IDF/FreeRTOS**, using GPIO signals to study task execution at different intervals.
 - Investigated how task priorities and computational load affect scheduling behavior.

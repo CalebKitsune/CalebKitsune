@@ -24,10 +24,6 @@ Exploring GPIO control on the **STM32H7S3L8**, with an emphasis on peripheral co
 
 Hands-on STM32 development with GPIO and LED control, paired with a separate [C++ LED driver](https://github.com/CalebKitsune/LED_Driver).
 
-### [ESP32 Stepper Motor Control](https://github.com/CalebKitsune/ESP32_28BYJ-48)
-
-An **ESP-IDF** project exploring firmware control of a **28BYJ-48 stepper motor**.
-
 ## Other engineering work
 
 - **Qt/C++ tooling:** Worked on a desktop application for generating **SPDX 2.3 JSON** documents.
